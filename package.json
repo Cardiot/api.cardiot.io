@@ -1,0 +1,17 @@
+{
+  "name": "api.cardiot.io",
+  "version": "1.0.0",
+  "description": "Server-side REST API build with Express.js with database as MongoDB.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cardiot/api.cardiot.io.git"
+  },
+  "author": {
+    "name": "Cardiot",
+    "url": "https://Cardiot.github.io",
+    "email": "mdirshaddev+cardiot@gmail.com"
+  },
+  "license": "MIT",
+  "private": "true",
+  "scripts": {}
+}
